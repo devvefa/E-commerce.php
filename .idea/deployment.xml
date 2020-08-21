@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="PhpServer">
+    <serverData>
+      <paths name="PhpServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Ecommerce" local="$PROJECT_DIR$" web="/Ecommerce" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
